@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046221393543",
+    "project_id": "speed-test-34b09",
+    "storage_bucket": "speed-test-34b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046221393543:android:c64dd3523a7e82b04d7222",
+        "android_client_info": {
+          "package_name": "agr.dvara.speedtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046221393543-n1q7c769ja1pt82uv0qsrd61136rp707.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1upu3Xs1ThEVD2QMR3WXzgboN59SCWL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046221393543-n1q7c769ja1pt82uv0qsrd61136rp707.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
